@@ -2,18 +2,18 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "37000"
-        android-versionCode="37000"
-        version   = "3.7.0">
-    <name>Moodle</name>
+        id        = "com.sator.mobile"
+        versionCode = "1"
+        android-versionCode="1"
+        version   = "1.0">
+    <name>BDO Sator LMS</name>
 
     <description>
-        Moodle official app
+        The BDO Sator LMS official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="https://davidmorake.com" email="shoutout@davidmorake.com">
+        David Morake
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
