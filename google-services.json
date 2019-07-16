@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "762149319333",
+    "firebase_url": "https://bdo-sator.firebaseio.com",
+    "project_id": "bdo-sator",
+    "storage_bucket": "bdo-sator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762149319333:android:f5982ffcdb66bf23",
+        "android_client_info": {
+          "package_name": "com.sator.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "762149319333-cfve20kffe6cr70ivcq93o86t7q6bjhu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDamxbXDXJKCli1Tj4TYjFYqJHr4aHFhok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "762149319333-cfve20kffe6cr70ivcq93o86t7q6bjhu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
